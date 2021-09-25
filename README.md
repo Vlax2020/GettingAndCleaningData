@@ -42,7 +42,7 @@ Running the run_analysis.R script
 
 > 2) change directory into what you created in #1
 
-> 3) clone this repository : git clone https://github.com/dholtz/GettingAndCleaningData
+> 3) clone this repository : git clone https://github.com/Vlax2020/GettingAndCleaningData
 
 > 4) change directory into the GettingAndCleaningData directory
 
