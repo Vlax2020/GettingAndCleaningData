@@ -50,9 +50,3 @@ Running the run_analysis.R script
 
 > 6) source("run_analysis.R") 
 
-How the, run_analysis.R script works
-====================================
-> Review the run_analysis.R script in the root of the cloned repository.
-
-> This script is heavily commented and explains step-wise what is happening.
-> DRY Principle (http://en.wikipedia.org/wiki/Don't_repeat_yourself)
